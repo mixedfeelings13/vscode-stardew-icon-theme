@@ -3,6 +3,9 @@
     "_file": {
       "iconPath": "icons/autumn/Pumpkin.png"
     },
+    "_folder": {
+      "iconPath": "icons/autumn/Jack_O_Lantern.png"
+    },
     "_css": {
       "iconPath": "icons/autumn/Chanterelle.png"
     },
@@ -71,6 +74,7 @@
     }
   },
   "file": "_file",
+  "folder": "_folder",
   "fileExtensions": {
     "js": "_javascript",
     "jsx": "_javascript",

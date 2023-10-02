@@ -1,9 +1,9 @@
 {
-    "name": "vscode-stardew-icon-theme",
-    "displayName": "Stardew Icon Theme",
+    "name": "vscode-stardew-icon-theme-mixedfeelings13",
+    "displayName": "Stardew Icon Theme mixedfeelings13",
     "description": "Icons from the game Stardew Valley",
     "version": "0.0.7",
-    "publisher": "klyap",
+    "publisher": "mixedfeelings13",
     "engines": {
         "vscode": "^1.20.0"
     },
@@ -30,7 +30,7 @@
     "icon": "icons/Spangle.png",
     "repository": {
 		"type": "git",
-		"url": "https://github.com/klyap/vscode-stardew-icon-theme.git"
+		"url": "https://github.com/mixedfeelings13/vscode-stardew-icon-theme.git"
 	},
     "categories": [
         "Themes"
